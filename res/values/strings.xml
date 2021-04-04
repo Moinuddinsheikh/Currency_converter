@@ -1,0 +1,21 @@
+<resources>
+  <string name="app_name">Quiz Time</string>
+  <string name="yes">TRUE</string>
+  <string name="no">FALSE</string>
+  <string name="prevBtn">prev</string>
+  <string name="nextBtn">next</string>
+  <string name="q1">Lisa Kudrow Wrote Smelly Cat While Drunk</string>
+  <string name="q2">The Friends Had 138 Sexual Partners Over The Course Of The Show</string>
+  <string name="q3">The Show\'s Original Theme Song Was The Beatles\' "Eight Days A Week"</string>
+  <string name="q4">The Cast Were Paid $1 Million Per Episode In The Final Two Seasons</string>
+  <string name="q5">Matthew Perry Is The Only Main Cast Member Not To Appear In Every Single Episode</string>
+  <string name="q6">Rachel Was Originally Going To Die In Childbirth</string>
+  <string name="q7">Bruce Willis Appeared On The Show Because He Lost A Bet To Matthew Perry</string>
+  <string name="q8">One Of The Show\'s Original Suggested Titles Was "This Is Us"</string>
+  <string name="q9">Jon Favreau Turned Down The Role Of Chandler</string>
+  <string name="q10">Lisa Kudrow Based Phoebe On Jennifer Aniston</string>
+  <string name="q11">Courteney Cox Is The Only Main Cast Member Not To Receive An Emmy Nomination</string>
+  <string name="q12">Jim Parsons Plays An Extra In A Season 8 Episode</string>
+  <string name="q13">The Clock In Chandler and Joey\'s Apartment Always Reads "4:20"</string>
+
+</resources>
